@@ -16,7 +16,7 @@
 * Τα Bar Charts ανέδειξαν τα τμήματα που επενδύουν περισσότερο χρόνο στην εκπαίδευση.
 
 ## Αρχεία
-* `Employee_Performance_Analysis.xlsx`: Το πλήρες αρχείο δεδομένων.
+* `Employee_Performance_Analysis_Project.xlsx`: Το πλήρες αρχείο δεδομένων.
 
 
 ## Screenshots
