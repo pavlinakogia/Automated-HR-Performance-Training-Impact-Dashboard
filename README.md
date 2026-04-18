@@ -1,1 +1,2 @@
-# Automated-HR-Performance-Training-Impact-Dashboard
+Αυτό το project αποδεικνύει την ικανότητα μετατροπής στατικών δεδομένων σε ένα διαδραστικό εργαλείο λήψης αποφάσεων (Decision-making tool) χρησιμοποιώντας προχωρημένες τεχνικές Spreadsheet Engineering.
+
